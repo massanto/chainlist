@@ -1568,6 +1568,11 @@
             "https://mainnet-rpc3.memescan.io/",
             "https://mainnet-rpc4.memescan.io/"
         ]
+    },
+    "31223": {
+        "rpcs": [
+            "https://mainnet-rpc.cloudtx.finance"
+        ]
     }
     
     
